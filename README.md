@@ -21,11 +21,13 @@ Users can initiate a conversation, speak commands, or ask questions in multiple 
 
 ### Basic calling functionality
 
-https://github.com/shihui-huang/react-voice-chatbot/assets/52117621/f3faa11a-aeae-4b0a-82cd-864e42950383
+https://github.com/user-attachments/assets/343c8e31-7999-4e2d-a4c8-ae54e2127587
 
 ### Calling history & Responsiveness
 
-https://github.com/shihui-huang/react-voice-chatbot/assets/52117621/0abfbab5-143b-4346-b50f-0bb28a50cf95
+
+https://github.com/user-attachments/assets/98825548-1993-44b5-8192-5caa8e9c7e62
+
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +45,7 @@ https://github.com/shihui-huang/react-voice-chatbot/assets/52117621/0abfbab5-143
 clone locally:
 
 ```
-$ git clone https://github.com/michel-adelino/multilang-voice-chatbot
+$ git clone https://github.com/michel-adelino/multilang-voice-chatbot.git
 ```
 
 Then, run the development server:
