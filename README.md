@@ -1,7 +1,6 @@
-# 🤖 Call Bob
+# 🤖 Voice Chatbot
 
-Inspired by [CallAnnie](https://callannie.ai/call),
-"Call Bob" is a React application that integrates with an OpenAI API and leverages the Web Speech API for voice recognition and speech synthesis.  
+This is a React application that integrates with an OpenAI API and leverages the Web Speech API for voice recognition and speech synthesis.  
 It provides an interactive and immersive calling conversational experience through voice.  
 Users can initiate a conversation, speak commands, or ask questions in multiple languages.
 
@@ -40,44 +39,17 @@ https://github.com/shihui-huang/react-voice-chatbot/assets/52117621/0abfbab5-143
 - **Localization**: [i18next](https://www.i18next.com/)
 - **Testing**: [Jest](https://jestjs.io/) and [Testing Library](https://testing-library.com/)
 
-## 🧩 Components Overview
-
-### `CallManager`
-
-- Manages the call state, voice recognition, and conversation flow.
-
-### `MessageBox`
-
-- Displays the current chat messages with styling.
-
-### `TalkButton`
-
-- Provides buttons to start, end, and manage the speech-to-text operation.
-
-### `CallHistory`
-
-- Manages and displays the call history in a modal dialog. It fetches the call history from the local storage and allows users to review past conversations by date.
-
-### `ConversionIdea`
-
-- Displays conversation starter ideas in a horizontal layout. These are predefined scenarios or topics that help users initiate meaningful conversations with the chatbot.
-
-### `ConversationIdeasModal`
-
-- A mobile-only Drawer UI for quick conversation starters.
-
-## ⌨️ Development
-
+## Run
 clone locally:
 
 ```
-$ git clone git@github.com:shihui-huang/call-bob.git
+$ git clone https://github.com/michel-adelino/multilang-voice-chatbot
 ```
 
 Then, run the development server:
 
 ```bash
-$ cd call-bob/
+$ cd /multilang-voice-chatbot
 $ npm install
 $ npm run dev
 ```
